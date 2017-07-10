@@ -1,0 +1,23 @@
+{
+  "name": "node-weather-app",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boniverski/node-weather-app.git"
+  },
+  "author": "boško rabrenović",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boniverski/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/boniverski/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
+}
